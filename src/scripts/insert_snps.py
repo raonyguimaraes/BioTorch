@@ -8,8 +8,8 @@ import os
 
 #connect to the database
 conn = MySQLdb.connect (host = "localhost",
-			user = "root",
-			passwd = "Epkghi59",
+			user = "biotorch",
+			passwd = "p4m3d1c1n3",
 			db = "biotorch")
 cursor = conn.cursor()
 
