@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#test
 from wikitools import wiki
 from wikitools import api
 from wikitools import page

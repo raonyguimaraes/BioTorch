@@ -36,7 +36,7 @@ def emit_header():
     print "Content-type: text/html"
     print
 
-
+ 
 # Regular expression defining a WikiWord (but this definition
 # is also assumed in other places.
 word_re_str = r"\b([A-Z][a-z]+){2,}\b"
